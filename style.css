@@ -1,0 +1,39 @@
+.d-flex{
+    margin:10px;
+}
+.content{
+    padding-top: 20px;
+}
+.border{
+    padding-top: 20px; 
+}
+.mb-3{
+    max-width: 280px; 
+    border-width: 2px; 
+    border-color:rgba(255, 174, 0, 0.959); 
+    margin-right: 10px; 
+    margin-left: 30px;
+}
+.md-4{
+    max-width: 10px; 
+}
+.title{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card-img-top{
+    height: 90px;
+    width: 100px;
+    padding-left:10px;
+    transition: all 0.3s ease;
+    cursor: pointer
+} 
+.card-title{
+    font-family:'Abril Fatface', cursive;
+}
+.card-text{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-img-top:hover {
+    transform:scale(3.0);
+}
